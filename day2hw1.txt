@@ -1,0 +1,33 @@
+The tisue name is Pancreas, the gene name is ENSG00000162438.11, the mean is  11.64813927955005, the stdev is 0.757491204101109, the relative stdev is 0.06503109088255767
+The tisue name is Pancreas, the gene name is ENSG00000142615.7, the mean is  11.982260919355417, the stdev is 1.4113620914457623, the relative stdev is 0.1177876279731093
+The tisue name is Pancreas, the gene name is ENSG00000219073.7, the mean is  13.186023575042132, the stdev is 0.6691398656550582, the relative stdev is 0.05074614510181628
+The tisue name is Pancreas, the gene name is ENSG00000142789.19, the mean is  14.651792140427176, the stdev is 0.5222110990262671, the relative stdev is 0.03564144877440514
+The tisue name is Testis, the gene name is ENSG00000203784.2, the mean is  10.588661238478307, the stdev is 1.2485963275387792, the relative stdev is 0.11791824286544222
+The tisue name is Liver, the gene name is ENSG00000132693.12, the mean is  11.233820059075176, the stdev is 3.2303438267149205, the relative stdev is 0.2875552403125156
+The tisue name is Liver, the gene name is ENSG00000158874.11, the mean is  12.403165379794865, the stdev is 0.6799587560178442, the relative stdev is 0.054821389153249356
+The tisue name is Testis, the gene name is ENSG00000118245.2, the mean is  12.68051955583237, the stdev is 1.4374443015264093, the relative stdev is 0.11335847046308609
+The tisue name is Minor Salivary Gland, the gene name is ENSG00000171195.10, the mean is  13.66240542509939, the stdev is 3.508731365908907, the relative stdev is 0.2568165163261053
+The tisue name is Pituitary, the gene name is ENSG00000172179.11, the mean is  15.34070940366395, the stdev is 2.0224475699917153, the relative stdev is 0.13183533543166376
+The tisue name is Pancreas, the gene name is ENSG00000137392.9, the mean is  15.263872743216705, the stdev is 0.847495476085084, the relative stdev is 0.05552296526199176
+The tisue name is Pituitary, the gene name is ENSG00000135346.8, the mean is  11.211051271082567, the stdev is 2.05181509842288, the relative stdev is 0.18301718980763804
+The tisue name is Pancreas, the gene name is ENSG00000091704.9, the mean is  15.458753143882536, the stdev is 0.717376316049403, the relative stdev is 0.04640583295252949
+The tisue name is Pancreas, the gene name is ENSG00000204983.13, the mean is  16.137787479687645, the stdev is 0.7930013108179902, the relative stdev is 0.049139407233868164
+The tisue name is Small Intestine - Terminal Ileum, the gene name is ENSG00000164822.4, the mean is  10.555235965173559, the stdev is 3.1738956134018856, the relative stdev is 0.30069395169127305
+The tisue name is Small Intestine - Terminal Ileum, the gene name is ENSG00000164816.7, the mean is  11.725206247846716, the stdev is 3.0625750982778186, the relative stdev is 0.2611958402727668
+The tisue name is Thyroid, the gene name is ENSG00000042832.11, the mean is  12.68872987138559, the stdev is 0.9470126983439187, the relative stdev is 0.07463416023060992
+The tisue name is Lung, the gene name is ENSG00000122852.14, the mean is  10.094051754993973, the stdev is 2.900195718519805, the relative stdev is 0.2873173022007689
+The tisue name is Stomach, the gene name is ENSG00000182333.14, the mean is  12.506637140125969, the stdev is 5.011620164552823, the relative stdev is 0.4007168440566386
+The tisue name is Pancreas, the gene name is ENSG00000175535.6, the mean is  14.577667957161138, the stdev is 1.5774509350971981, the relative stdev is 0.10821010189920609
+The tisue name is Pancreas, the gene name is ENSG00000187021.14, the mean is  11.352044322367236, the stdev is 0.60805174093226, the relative stdev is 0.05356319299548535
+The tisue name is Pancreas, the gene name is ENSG00000254647.6, the mean is  10.997384243879184, the stdev is 1.8848077384973996, the relative stdev is 0.17138691316950458
+The tisue name is Stomach, the gene name is ENSG00000134812.7, the mean is  8.290498779007475, the stdev is 4.1522837635540215, the relative stdev is 0.5008484862295736
+The tisue name is Stomach, the gene name is ENSG00000229859.9, the mean is  8.732697313784572, the stdev is 4.595783632269953, the relative stdev is 0.5262730937685776
+The tisue name is Stomach, the gene name is ENSG00000256713.7, the mean is  9.42991153416666, the stdev is 4.491977041839647, the relative stdev is 0.4763541021105254
+The tisue name is Pancreas, the gene name is ENSG00000170890.13, the mean is  14.073429783545471, the stdev is 0.5720383460979774, the relative stdev is 0.04064669060038226
+The tisue name is Testis, the gene name is ENSG00000122304.10, the mean is  14.012950172919384, the stdev is 1.428699006557175, the relative stdev is 0.10195561883308456
+The tisue name is Testis, the gene name is ENSG00000175646.3, the mean is  13.921464122485672, the stdev is 1.498209066406657, the relative stdev is 0.10761864220781056
+The tisue name is Pancreas, the gene name is ENSG00000168928.12, the mean is  14.362048866146097, the stdev is 0.5788730638807795, the relative stdev is 0.04030574392803288
+The tisue name is Pancreas, the gene name is ENSG00000168925.10, the mean is  14.136953933949323, the stdev is 0.4183678441879013, the relative stdev is 0.02959391720045206
+The tisue name is Pancreas, the gene name is ENSG00000240338.5, the mean is  11.7016676968443, the stdev is 0.7054571422813039, the relative stdev is 0.06028688906210789
+The tisue name is Pituitary, the gene name is ENSG00000259384.6, the mean is  15.281443747697883, the stdev is 2.1283772961155414, the relative stdev is 0.13927854797333378
+The tisue name is Prostate, the gene name is ENSG00000142515.14, the mean is  11.359285573911217, the stdev is 2.7824494085167393, the relative stdev is 0.24494933157655346
