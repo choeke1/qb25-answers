@@ -11,24 +11,27 @@ General Instructions before running the code:
 Instructions: ./assembly-metrics.py caenorhabditis_remanei.PRJNA248909.WBPS19.genomic.fa
 
 There are 1591 contigs in the file. The total length is 118549266. The average length is 74512.
+The N50 is 1522088.
 
 2. https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_remanei/PRJNA248911/caenorhabditis_remanei.PRJNA248911.WBPS19.genomic.fa.gz
 
 Instructions: ./assembly-metrics.py caenorhabditis_remanei.PRJNA248911.WBPS19.genomic.fa
 
 There are 912 contigs in the file. The total length is 124541912. The average length is 136559.
+The N50 is 1765890.
 
 3.  https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_remanei/PRJNA53967/caenorhabditis_remanei.PRJNA53967.WBPS19.genomic.fa.gz
 
 Instructions: ./assembly-metrics.py caenorhabditis_remanei.PRJNA53967.WBPS19.genomic.fa
 
 There are 3670 contigs in the file. The total length is 145442736. The average length is 39630.
+The N50 is 435512.
 
 4. https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/caenorhabditis_remanei/PRJNA577507/caenorhabditis_remanei.PRJNA577507.WBPS19.genomic.fa.gz
 
 Instructions: ./assembly-metrics.py caenorhabditis_remanei.PRJNA577507.WBPS19.genomic.fa
 
 There are 187 contigs in the file. The total length is 130480874. The average length is 697758.
-
+The N50 is 21501900.
 
 
