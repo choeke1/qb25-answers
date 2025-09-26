@@ -18,5 +18,5 @@ hisat2 -p 4 -x ../genomes/sacCer3 -U ../rawdata/SRR10143769.fastq -S rna.sam
     375067 (12.85%) aligned >1 times
 89.83% overall alignment rate
 
-Generally the sequencing reads are accumulated at the end of the gene. For example, REF2, Cab5, VPS64, and RAV2 have high coverage all in the final few hundered basepairs of their coding region. For smaller genes, like SPC19, there is coverage across the whole gene. Albeit weak to moderate in the beginning portions, coverage increases towards the end of the transcript
+Generally the sequencing reads are accumulated at the end of the gene. For example, REF2, Cab5, VPS64, and RAV2 have high coverage all in the final few hundered basepairs of their coding region. For smaller genes, like SPC19, there is coverage across the whole gene. Albeit weak to moderate in the beginning portions, coverage increases towards the end of the transcriptR
 
