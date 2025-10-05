@@ -59,14 +59,14 @@ bedtools intersect -f 1 -F 1 -a nhek-active.bed -b nhlf-active.bed | head -n 1
 #of note, within the NHEK and NHLF samples for each command, the chromatin states are roughly the same.
 
 
-bedtools intersect -u -a nhek-active.bed -b nhlf-active.bed | head -n 1
+bedtools intersect -a nhek-active.bed -b nhlf-active.bed | head -n 1
 #chr1	19922613	19924613	1_Active_Promoter	0	.	19922613	19924613
 
-bedtools intersect -u -a nhek-active.bed -b nhlf-repressed.bed | head -n 1
+bedtools intersect -a nhek-active.bed -b nhlf-repressed.bed | head -n 1
 #chr1	1981140	1981540	1_Active_Promoter	0	.	1981140	1981540
 
 
-bedtools intersect -u -a nhek-repressed.bed -b nhlf-repressed.bed | head -n 1
+bedtools intersect -a nhek-repressed.bed -b nhlf-repressed.bed | head -n 1
 #chr1	11534013	11538613	12_Repressed	0	.	115340111538613
 
 
