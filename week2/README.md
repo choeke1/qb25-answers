@@ -7,7 +7,12 @@ idxstats A01_01.bam > A01_01.idxstats
 
 
 #Exercise 2
-The alignment of the different variants against the reference genome had a relatively consistent pattern. However A01_01, A01_03, and A01_04 had no reads/matches between ~20kb - 27 kb and many more mismatchesd (represented by colored lines), suggesting the sequencing wasn't as efficient. A01_02, A01_05, and A01_06 had far fewer mismatches, but still had roughly 3 - 10 mismatches per 1 kb. The sequencing efficiency was much stronger in these variants.
+The alignment of the different variants against the reference genome had a relatively consistent pattern. However A01_01, A01_03, and A01_04 had no reads/matches between ~20kb - 27 kb and many more mismatchesd (represented by colored lines), suggesting the these regions derived from the RM haplotype. Because we are using the BY strain as a reference, these regions are RM, they will mismatch more upon alignment. the A01_02, A01_05, and A01_06 had far fewer mismatches, but still had roughly 3 - 10 mismatches per 1 kb. Since we see fewer mismatches in these regions, they are aligning well and likely inherited from the BY parent.
+
+#Exercise 4
+
+minimap2 -ax map-ont ../genomes/sacCer3.fa ../rawdata/ERR8562476.fastq > longreads.sam
+
 
 #Exercise 5
 hisat2 -p 4 -x ../genomes/sacCer3 -U ../rawdata/SRR10143769.fastq -S rna.sam
