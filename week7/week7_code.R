@@ -62,9 +62,15 @@ set.seed(42)
 km <- kmeans(combined_filtered,centers = 12, nstart = 100)
 clusters <- km$cluster
 
-heatmap(combined_filtered, Rowv=NA, Colv=NA, RowSideColors=RColorBrewer::brewer.pal(12,"Paired")[clusters], ylab="Gene")
+#I asked chatGPT to help me with understanding how to order the clusters, I came up with ord but then it helped me reflect this on the side
+ord <- order(clusters)
+combined_sorted <- combined_filtered[ord, ]
+clusters_sorted <- clusters[ord]
 
 
+heatmap(combined_sorted,Rowv = NA,Colv = NA,RowSideColors = RColorBrewer::brewer.pal(12, "Paired")[clusters_sorted],
+  ylab = "Gene"
+)
 #Excercise 3:
 genes_c1 <- names(clusters[clusters == 1])
 genes_c11 <- names(clusters[clusters == 11])
