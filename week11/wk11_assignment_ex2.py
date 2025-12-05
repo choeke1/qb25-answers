@@ -4,7 +4,7 @@ reads = ['ATTCA', 'ATTGA', 'CATTG', 'CTTAT', 'GATTG', 'TATTT', 'TCATT', 'TCTTA',
 k = 3
 graph = set()
 
-
+# I had no idea how to do this, and the pseudocode was starting to confuse me. I had to consult CHATGPT
 for read in reads:
     for i in range(len(read) - k + 1):
         kmer = read[i:i+k]         # 3-letter k-mer
